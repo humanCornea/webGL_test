@@ -1,0 +1,164 @@
+{
+"BombList": [
+ {
+   "id": 0,
+   "name": "NormalBomb-SS",
+   "range": 1,
+   "cost": 3,
+   "power": 1,
+   "releaseLv": 1
+ },
+ {
+   "id": 1,
+   "name": "NormalBomb-S",
+   "range": 10,
+   "cost": 12,
+   "power": 1,
+   "releaseLv": 1
+ },
+ {
+   "id": 2,
+   "name": "NormalBomb-M",
+   "range": 20,
+   "cost": 22,
+   "power": 1,
+   "releaseLv": 3
+ },
+ {
+   "id": 3,
+   "name": "NormalBomb-L",
+   "range": 30,
+   "cost": 32,
+   "power": 1,
+   "releaseLv": 6
+ },
+ {
+   "id": 4,
+   "name": "SuperBomb-SS",
+   "range": 1,
+   "cost": 21,
+   "power": 2,
+   "releaseLv": 3
+ },
+ {
+   "id": 5,
+   "name": "SuperBomb-S",
+   "range": 10,
+   "cost": 48,
+   "power": 2,
+   "releaseLv": 3
+ },
+ {
+   "id": 6,
+   "name": "SuperBomb-M",
+   "range": 20,
+   "cost": 78,
+   "power": 2,
+   "releaseLv": 4
+ },
+ {
+   "id": 7,
+   "name": "SuperBomb-L",
+   "range": 30,
+   "cost": 108,
+   "power": 2,
+   "releaseLv": 6
+ },
+ {
+   "id": 8,
+   "name": "HyperBomb-SS",
+   "range": 1,
+   "cost": 55,
+   "power": 3,
+   "releaseLv": 3
+ },
+ {
+   "id": 9,
+   "name": "HyperBomb-S",
+   "range": 10,
+   "cost": 100,
+   "power": 3,
+   "releaseLv": 4
+ },
+ {
+   "id": 10,
+   "name": "HyperBomb-M",
+   "range": 20,
+   "cost": 150,
+   "power": 3,
+   "releaseLv": 5
+ },
+ {
+   "id": 11,
+   "name": "HyperBomb-L",
+   "range": 30,
+   "cost": 200,
+   "power": 3,
+   "releaseLv": 7
+ },
+ {
+   "id": 12,
+   "name": "UltraBomb-SS",
+   "range": 1,
+   "cost": 105,
+   "power": 4,
+   "releaseLv": 4
+ },
+ {
+   "id": 13,
+   "name": "UltraBomb-S",
+   "range": 10,
+   "cost": 168,
+   "power": 4,
+   "releaseLv": 5
+ },
+ {
+   "id": 14,
+   "name": "UltraBomb-M",
+   "range": 20,
+   "cost": 238,
+   "power": 4,
+   "releaseLv": 5
+ },
+ {
+   "id": 15,
+   "name": "UltraBomb-L",
+   "range": 30,
+   "cost": 308,
+   "power": 4,
+   "releaseLv": 8
+ },
+ {
+   "id": 16,
+   "name": "DestroyBomb-SS",
+   "range": 1,
+   "cost": 171,
+   "power": 5,
+   "releaseLv": 8
+ },
+ {
+   "id": 17,
+   "name": "DestroyBomb-S",
+   "range": 10,
+   "cost": 252,
+   "power": 5,
+   "releaseLv": 8
+ },
+ {
+   "id": 18,
+   "name": "DestroyBomb-M",
+   "range": 20,
+   "cost": 342,
+   "power": 5,
+   "releaseLv": 8
+ },
+ {
+   "id": 19,
+   "name": "DestroyBomb-L",
+   "range": 30,
+   "cost": 432,
+   "power": 5,
+   "releaseLv": 9
+ }
+]
+}
