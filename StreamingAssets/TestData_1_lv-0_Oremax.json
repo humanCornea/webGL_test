@@ -1,0 +1,54 @@
+{
+    "MyLv": {
+        "lv": 1,
+        "HP": 300.0,
+        "MP": 100.0,
+        "LvUp": 100.0
+    },
+    "numberOfOre": 1000000,
+    "MyBomb": {
+        "id": 0,
+        "name": "NormalBomb-SS",
+        "range": 1.0,
+        "cost": 3.0,
+        "count": 0,
+        "power": 1,
+        "releaseLv": 1
+    },
+    "BombList": [
+        {
+            "id": 0,
+            "name": "NormalBomb-SS",
+            "range": 1.0,
+            "cost": 3.0,
+            "count": 0,
+            "power": 1,
+            "releaseLv": 1
+        },
+        {
+            "id": 1,
+            "name": "NormalBomb-S",
+            "range": 10.0,
+            "cost": 12.0,
+            "count": 0,
+            "power": 1,
+            "releaseLv": 1
+        }
+    ],
+    "MySonar": {
+        "id": 0,
+        "name": "GreenSonar",
+        "target": "GreenOre",
+        "range": 10.0,
+        "mpusage": 10.0
+    },
+    "SonarList": [
+        {
+            "id": 0,
+            "name": "GreenSonar",
+            "target": "GreenOre",
+            "range": 10.0,
+            "mpusage": 10.0
+        }
+    ]
+}
